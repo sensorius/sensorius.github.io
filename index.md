@@ -13,3 +13,6 @@ Alfred E. Neuman is the fictitious mascot and cover boy of the American humor ma
 His motto is:
 
 > What, me worry?
+
+<img src="https://upload.wikimedia.org/wikipedia/en/1/19/Mad30.jpg" />
+
